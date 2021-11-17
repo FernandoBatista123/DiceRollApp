@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiceRollerApp</string>
+    <string name="botao_jogar">JOGAR</string>
+</resources>
